@@ -3,15 +3,13 @@
 > A Vue.js project
 
 
-<!--  NOTLAR
+# Notes
 
--   component kullanımı,
--   componentler arası SLOT kullanımı ve iletişimleri ,
+-   componentler,
+-   componentler arası SLOT ve iletişimleri ,
 
--   eventBus.$emit - eventBus.$on kullanımı, 
+-   eventBus.$emit - eventBus.$on, 
 -   import { eventBus } from "../main";
-
--->
 
 ## Build Setup
 
